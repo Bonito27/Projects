@@ -1,1 +1,1 @@
-# This Folder using my projects showcase's
+# This folder is used to showcase my projects
